@@ -5,7 +5,7 @@ The aim of the project was to create a multi-step form styled with styled-compon
 
 ## Features
 1. Neumorphism design
-2. Form is built with four steps (screens)
+2. Form built with four steps (screens)
 3. Validation at every step of the form
 4. Level of filling in the form presented by progress bar
 

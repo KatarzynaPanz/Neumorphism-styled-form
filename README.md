@@ -26,3 +26,5 @@ The project uses node and npm. Having them installed, type into the terminal: np
 ## Author
 Linkedin - [Katarzyna Panz](https://www.linkedin.com/in/katarzyna-panz-584399228/)
 
+## Special thanks
+Thanks to my [Mentor - devmentor.pl}(https://devmentor.pl/) – for providing me with this task and for code review.

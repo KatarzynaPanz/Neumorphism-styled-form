@@ -1,4 +1,4 @@
-Neumorphism styled form
+# Neumorphism styled form
 
 About project
 The aim of the project was to create a multi-step form styled with styled-components (a React-specific CSS-in-JS styling solution that creates a platform for developers to write actual CSS code to style React components).
